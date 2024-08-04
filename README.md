@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on saving th planet
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on my research.
+- ⚡ Fun fact: Everything is Relative.
+- Link to  [http://doi.org/10.1002/jsfa.13783 ](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.13783)
 <!--
 **Gablu-Biki/Gablu-Biki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
